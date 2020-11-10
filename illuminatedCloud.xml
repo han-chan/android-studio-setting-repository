@@ -1,7 +1,19 @@
 <application>
   <component name="IlluminatedCloudSettings">
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="sandbox:dev" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="username" value="sea@greenpeace.org.dev" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
     <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
     <option name="selectedTabIndex" value="1" />
   </component>
 </application>
