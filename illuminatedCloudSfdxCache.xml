@@ -1,0 +1,159 @@
+<application>
+  <component name="IlluminatedCloudSfdxCache">
+    <option name="orgListResponse">
+      <SfdxForceOrgListResponse>
+        <option name="result">
+          <SfdxForceOrgListResult>
+            <option name="nonScratchOrgs">
+              <list>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="1c2d76da145de00a1d66e7ac933d75f6f098092c4afcc41025976e4836d7c674f52be5038cbc25e6d3c96a36f8dec546c5ccf023a787c138570edf7b7ae6bf2db9d0995bbbad27a092c7a0b0a0ee4e30ccca461f22c75b4d197311534689b98e5007735e1c1662992ebb45916fd50fa3b7ade2d5583f:ef87f9b9c05362b01e5ee14d50d36586" />
+                  <option name="alias" value="lwc" />
+                  <option name="instanceUrl" value="https://resourceful-fox-o5s764-dev-ed.my.salesforce.com" />
+                  <option name="isDevHub" value="true" />
+                  <option name="isDefaultDevHubUsername" value="true" />
+                  <option name="lastUsed" value="1605068035809" />
+                  <option name="loginUrl" value="https://login.salesforce.com" />
+                  <option name="orgId" value="00D2y000000t60AEAQ" />
+                  <option name="username" value="cchan@resourceful-fox-o5s764.com" />
+                </SfdxForceOrg>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="fa96588c8859417ed93661c065c14b59b13c651338cf0604c7147989b15b6874c90a29c3972b74da0a3e64615a57108d47f7bfcbaf9a5eae312a1aa9bfae575b2bedf37bb436b5935b4afd68a5ced8eea232584f11691956854a944d6dda6195748f0f857de767a35f2cd3b83988a267e74c2e61c559:0a512a599565edf7a3828a33a43ce426" />
+                  <option name="alias" value="sea" />
+                  <option name="instanceUrl" value="https://greanpeace-ea--dev.my.salesforce.com" />
+                  <option name="lastUsed" value="1605068199921" />
+                  <option name="loginUrl" value="https://greanpeace-ea--dev.my.salesforce.com/" />
+                  <option name="orgId" value="00D0k0000005CZ3EAM" />
+                  <option name="username" value="sea@greenpeace.org.dev" />
+                </SfdxForceOrg>
+              </list>
+            </option>
+            <option name="scratchOrgs">
+              <list>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="5e9c3cb2ff82501da0129b821490f1af8f53be9e71c839ebfbd3e3fbd5dd6c7336c4fbd0a9f5e2aa7067a95655cd8c17d5021bb71ad46eb52ac289deaf5295788160e5d5e333ddf1331771ab5982821e8037b591699fb7a514db1805a3bfff9b49e7276bac4a0041189de0e142be418c314e6381bea9:b23e9cf61d7287f8a591316f76f9aa67" />
+                  <option name="alias" value="HelloLWC" />
+                  <option name="connectedStatus" value="Unknown" />
+                  <option name="created" value="1604923267573" />
+                  <option name="createdBy" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="createdDate" value="1604923259000" />
+                  <option name="createdOrgInstance" value="CS114" />
+                  <option name="devHubOrgId" value="00D2y000000t60AEAQ" />
+                  <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="edition" value="Developer" />
+                  <option name="expirationDate" value="1607443200000" />
+                  <option name="instanceUrl" value="https://velocity-ruby-29322-dev-ed.cs114.my.salesforce.com/" />
+                  <option name="lastUsed" value="1604923277335" />
+                  <option name="loginUrl" value="https://CS114.salesforce.com" />
+                  <option name="orgId" value="00D1y0000008iyxEAA" />
+                  <option name="orgName" value="cchan company" />
+                  <option name="signupUsername" value="test-knrnyxj6issi@example.com" />
+                  <option name="status" value="Active" />
+                  <option name="username" value="test-knrnyxj6issi@example.com" />
+                </SfdxForceOrg>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="6ae6ea8973e1a04f3fa466ae84d392ab5d05172e80ae79afa939defa45eb13c76e55c3b1068ef14fdf7b8a2f8fbfbf23d5b828aa08d63f9b6008022fefeb039a068a178694a64fb9036fffcc43b080383b6f818d4fa961ddf24485c28f264c967e616c542c2530cfe28a4b314a915c7db56c50abc058:7f7857a38f8992453a7107bf3ec4c033" />
+                  <option name="alias" value="HelloWorldLightningWebComponent" />
+                  <option name="connectedStatus" value="Unknown" />
+                  <option name="created" value="1604570743594" />
+                  <option name="createdBy" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="createdDate" value="1604570734000" />
+                  <option name="createdOrgInstance" value="CS6" />
+                  <option name="devHubOrgId" value="00D2y000000t60AEAQ" />
+                  <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="edition" value="Developer" />
+                  <option name="expirationDate" value="1605110400000" />
+                  <option name="instanceUrl" value="https://innovation-platform-5205-dev-ed.cs6.my.salesforce.com" />
+                  <option name="lastUsed" value="1604578399084" />
+                  <option name="loginUrl" value="https://CS6.salesforce.com" />
+                  <option name="orgId" value="00DN0000000YO9vMAG" />
+                  <option name="orgName" value="cchan company" />
+                  <option name="signupUsername" value="test-iqlszqu2v4nf@example.com" />
+                  <option name="status" value="Active" />
+                  <option name="username" value="test-iqlszqu2v4nf@example.com" />
+                </SfdxForceOrg>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="e09873a72f9c4fee8808e2ea65451ff10522ccd5e81393b7b14ebbcc649b2f56c708e79c588f6238a86eacdd8a7dc5093bf0438af3c196673db61a52acabc8776fbc8b2aa4871d9e374bdc3bca906171044924473de2ec4dca2d105475b6359de6811211c3d95dc4bf38059a6dd9108bdadfac04774c:aa2eca39085a03b90eceff5ef795df9c" />
+                  <option name="alias" value="MatrixSandboxDEV" />
+                  <option name="connectedStatus" value="Unknown" />
+                  <option name="created" value="1605068029286" />
+                  <option name="createdBy" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="createdDate" value="1605068019000" />
+                  <option name="createdOrgInstance" value="CS73" />
+                  <option name="devHubOrgId" value="00D2y000000t60AEAQ" />
+                  <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="edition" value="Developer" />
+                  <option name="expirationDate" value="1607616000000" />
+                  <option name="instanceUrl" value="https://flow-force-5579-dev-ed.cs73.my.salesforce.com/" />
+                  <option name="lastUsed" value="1605068038703" />
+                  <option name="loginUrl" value="https://CS73.salesforce.com" />
+                  <option name="orgId" value="00D6D00000016AMUAY" />
+                  <option name="orgName" value="MatrixSandboxDEV" />
+                  <option name="signupUsername" value="test-hxnqayjpq2xa@example.com" />
+                  <option name="status" value="Active" />
+                  <option name="username" value="test-hxnqayjpq2xa@example.com" />
+                </SfdxForceOrg>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="a371d4fe6635bb643dd3e906e3fdc8103a33b7281e5260842711c8a59717bc04a1b98cb42deb529f123f282277e1bf5dab4046baa9ff36e511f4622e69228dcf182dfc5779deb0c7854120d81cd80a279741863c371799fdaafc7ea8d1497531e0df63e4a7354becffb4c07b59417f1f0988a9cd5baf:5b33ca63cfaff1052220015327827619" />
+                  <option name="alias" value="lightningContainerComponent" />
+                  <option name="connectedStatus" value="Unknown" />
+                  <option name="created" value="1604833840485" />
+                  <option name="createdBy" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="createdDate" value="1604833676000" />
+                  <option name="createdOrgInstance" value="CS114" />
+                  <option name="devHubOrgId" value="00D2y000000t60AEAQ" />
+                  <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="edition" value="Developer" />
+                  <option name="expirationDate" value="1605369600000" />
+                  <option name="instanceUrl" value="https://roasted-orion-4860-dev-ed.cs114.my.salesforce.com/" />
+                  <option name="lastUsed" value="1604834385251" />
+                  <option name="loginUrl" value="https://CS114.salesforce.com" />
+                  <option name="orgId" value="00D1y0000000MPhEAM" />
+                  <option name="orgName" value="ccoenraets Company" />
+                  <option name="signupUsername" value="test-adldyia6wrul@example.com" />
+                  <option name="status" value="Active" />
+                  <option name="username" value="test-adldyia6wrul@example.com" />
+                </SfdxForceOrg>
+                <SfdxForceOrg>
+                  <option name="accessToken" value="3c6e08f2f82a884fa0428dd49bff7cb78d706ca9c4726818e17aff6c42a89ff396c19340ea1a3da871f77dbf99ab82bf8e92f20304b8fea418f346b98bec4e67154adf73669bdda49e791de7d92cd19398b67ebaa5f97720aae14df8ca5be85368c7956a1703e903eb265aa37e54601cbd9d29913db7:58ce36f61c1a9f550d522fac021270f0" />
+                  <option name="alias" value="lwc-recipes" />
+                  <option name="connectedStatus" value="Unknown" />
+                  <option name="created" value="1604978694363" />
+                  <option name="createdBy" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="createdDate" value="1604978681000" />
+                  <option name="createdOrgInstance" value="CS73" />
+                  <option name="devHubOrgId" value="00D2y000000t60AEAQ" />
+                  <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
+                  <option name="edition" value="Developer" />
+                  <option name="expirationDate" value="1605542400000" />
+                  <option name="instanceUrl" value="https://efficiency-computing-53742-dev-ed.cs73.my.salesforce.com/" />
+                  <option name="lastUsed" value="1604979193885" />
+                  <option name="loginUrl" value="https://CS73.salesforce.com" />
+                  <option name="orgId" value="00D6D00000010kXUAQ" />
+                  <option name="orgName" value="LWC Recipes" />
+                  <option name="signupUsername" value="test-liwv5axpo3p8@example.com" />
+                  <option name="status" value="Active" />
+                  <option name="username" value="test-liwv5axpo3p8@example.com" />
+                </SfdxForceOrg>
+              </list>
+            </option>
+          </SfdxForceOrgListResult>
+        </option>
+      </SfdxForceOrgListResponse>
+    </option>
+    <option name="orgListResponseLastPopulated" value="1605068414018" />
+    <option name="sfdxConfigFileChecksums">
+      <map>
+        <entry key="alias.json" value="3321440178" />
+        <entry key="cchan@resourceful-fox-o5s764.com.json" value="1975679528" />
+        <entry key="sea@greenpeace.org.dev.json" value="570790389" />
+        <entry key="sfdx-config.json" value="1042633910" />
+        <entry key="test-adldyia6wrul@example.com.json" value="3756694957" />
+        <entry key="test-hxnqayjpq2xa@example.com.json" value="2617921915" />
+        <entry key="test-iqlszqu2v4nf@example.com.json" value="2976622726" />
+        <entry key="test-knrnyxj6issi@example.com.json" value="2381033871" />
+        <entry key="test-liwv5axpo3p8@example.com.json" value="3972471576" />
+      </map>
+    </option>
+  </component>
+</application>
