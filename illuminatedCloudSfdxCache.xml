@@ -115,7 +115,7 @@
                   <option name="username" value="test-adldyia6wrul@example.com" />
                 </SfdxForceOrg>
                 <SfdxForceOrg>
-                  <option name="accessToken" value="3c6e08f2f82a884fa0428dd49bff7cb78d706ca9c4726818e17aff6c42a89ff396c19340ea1a3da871f77dbf99ab82bf8e92f20304b8fea418f346b98bec4e67154adf73669bdda49e791de7d92cd19398b67ebaa5f97720aae14df8ca5be85368c7956a1703e903eb265aa37e54601cbd9d29913db7:58ce36f61c1a9f550d522fac021270f0" />
+                  <option name="accessToken" value="02d0142f7333195ff8c1d31c66dba62f13c75712b1a454fa3f0a1b686c886681cbebcf4246b4de4a9e14b85122bd5a73ef377e3e3fb1b0f4ff9a9a2fb3cb0da4f27942cfcc76ea16122ceb4d35764533180d34f19926388bc600f9b7159e3613a5164301d64605eb9ab6dc6ca4cc195df7c977f269ea:b21a09e1ea801f5f8f38f48671fa255c" />
                   <option name="alias" value="lwc-recipes" />
                   <option name="connectedStatus" value="Unknown" />
                   <option name="created" value="1604978694363" />
@@ -126,8 +126,8 @@
                   <option name="devHubUsername" value="cchan@resourceful-fox-o5s764.com" />
                   <option name="edition" value="Developer" />
                   <option name="expirationDate" value="1605542400000" />
-                  <option name="instanceUrl" value="https://efficiency-computing-53742-dev-ed.cs73.my.salesforce.com/" />
-                  <option name="lastUsed" value="1604979193885" />
+                  <option name="instanceUrl" value="https://efficiency-computing-53742-dev-ed.cs73.my.salesforce.com" />
+                  <option name="lastUsed" value="1605073533211" />
                   <option name="loginUrl" value="https://CS73.salesforce.com" />
                   <option name="orgId" value="00D6D00000010kXUAQ" />
                   <option name="orgName" value="LWC Recipes" />
@@ -141,7 +141,7 @@
         </option>
       </SfdxForceOrgListResponse>
     </option>
-    <option name="orgListResponseLastPopulated" value="1605068414018" />
+    <option name="orgListResponseLastPopulated" value="1605073534507" />
     <option name="sfdxConfigFileChecksums">
       <map>
         <entry key="alias.json" value="3321440178" />
@@ -152,7 +152,7 @@
         <entry key="test-hxnqayjpq2xa@example.com.json" value="2617921915" />
         <entry key="test-iqlszqu2v4nf@example.com.json" value="2976622726" />
         <entry key="test-knrnyxj6issi@example.com.json" value="2381033871" />
-        <entry key="test-liwv5axpo3p8@example.com.json" value="3972471576" />
+        <entry key="test-liwv5axpo3p8@example.com.json" value="984678616" />
       </map>
     </option>
   </component>
