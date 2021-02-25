@@ -260,6 +260,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.briefcasedefinition">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.businessprocessgroup">
           <value>
             <plugin>
@@ -759,6 +768,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.entityimplements">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.escalationrules">
           <value>
             <plugin>
@@ -889,6 +907,15 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gatewayproviderpaymentmethodtype">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1073,6 +1100,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.iframewhitelisturlsettings">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ignore">
           <value>
             <plugin>
@@ -1092,6 +1128,24 @@
           </value>
         </entry>
         <entry key="*.inboundcertificate">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.inboundnetworkconnection">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.indx">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1640,6 +1694,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.outboundnetworkconnection">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.page">
           <value>
             <plugin>
@@ -1747,6 +1810,15 @@
           </value>
         </entry>
         <entry key="*.platformeventchannelmember">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.platformeventsubscriberconfig">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
