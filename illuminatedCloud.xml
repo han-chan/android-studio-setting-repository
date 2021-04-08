@@ -22,7 +22,7 @@
           <option name="connectionType" value="MDAPI" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
-          <option name="username" value="cchan@greenpeace.org.dev" />
+          <option name="username" value="sea@greenpeace.org.dev" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="sea" />
