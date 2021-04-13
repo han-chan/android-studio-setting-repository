@@ -1,11 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="wlens" type="JSON" />
-      <mapping ext="wdpr" type="JSON" />
-      <mapping ext="networkbranding" type="JSON" />
-      <mapping ext="wdf" type="JSON" />
-      <mapping ext="wdash" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
