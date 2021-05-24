@@ -2,7 +2,6 @@
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="--" />
-      <option name="COMMENT_START" value="--" />
       <option name="HAS_BRACES" value="true" />
       <option name="HAS_BRACKETS" value="true" />
       <option name="HAS_PARENS" value="true" />
