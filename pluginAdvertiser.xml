@@ -122,6 +122,11 @@
                       <FeaturePluginData displayName="Apex Unit Tests" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
                     </value>
                   </entry>
+                  <entry key="com.illuminatedcloud.intellij.functions.localInvocation">
+                    <value>
+                      <FeaturePluginData displayName="Salesforce Function Local Invocation" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
