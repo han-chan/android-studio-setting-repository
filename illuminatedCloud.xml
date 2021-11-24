@@ -25,7 +25,6 @@
     <option name="lastChangeNotesVersion" value="2.1.9.7" />
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="1" />
-    <option name="selectedTabIndex" value="1" />
     <option name="sfdxExecutablePath" value="/usr/local/lib/sfdx/bin/sfdx" />
     <option name="sfdxLogCommands" value="true" />
     <option name="sfdxPushOnCreate" value="true" />
