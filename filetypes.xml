@@ -8,7 +8,6 @@
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="networkbranding" approved="true" type="JSON" />
