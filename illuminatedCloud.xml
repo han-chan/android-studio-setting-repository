@@ -38,7 +38,7 @@
     </option>
     <option name="editDelay" value="5000" />
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
-    <option name="lastChangeNotesVersion" value="2.2.3.6" />
+    <option name="lastChangeNotesVersion" value="2.2.3.8" />
     <option name="selectedConnectionIndex" value="2" />
     <option name="selectedTabIndex" value="1" />
     <option name="sfdxExecutablePath" value="/usr/local/lib/sfdx/bin/sfdx" />
