@@ -40,12 +40,12 @@
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
     <option name="lastChangeNotesVersion" value="2.2.3.8" />
     <option name="selectedConnectionIndex" value="2" />
-    <option name="selectedTabIndex" value="1" />
     <option name="sfdxExecutablePath" value="/usr/local/lib/sfdx/bin/sfdx" />
     <option name="sfdxLogCommands" value="true" />
     <option name="sfdxPushOnCreate" value="true" />
     <option name="sfdxPushOnDelete" value="true" />
     <option name="sfdxPushOnRenameMove" value="true" />
     <option name="sfdxPushOnSave" value="true" />
+    <option name="showMetaXmlFiles" value="true" />
   </component>
 </application>
